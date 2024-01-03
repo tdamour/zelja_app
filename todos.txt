@@ -1,0 +1,18 @@
+To do 
+
+12/30/2023
+--------------------
+Did Grid Page UI 
+
+12/31/2023
+----------------------------------
+Do Home landing page 
+
+Do Navigation 
+
+Do Female / Male / Non-Binary Genders Data 
+SQL & then Angular code. 
+
+Do Phone Number and Email validation 
+
+Do Validation period... 

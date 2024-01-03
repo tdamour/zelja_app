@@ -1,0 +1,22 @@
+ng new my-app --no-standalone --routing --ssr=false
+
+private router: Router
+
+{{ createForm.value | json }}
+
+
+              <h3>First Name</h3>
+               <div>touched: {{ first_nameControl.touched }}</div>
+               <div>untouched: {{ first_nameControl.untouched }}</div>
+               <div>dirty: {{ first_nameControl.dirty }}</div>
+               <div>valid: {{ first_nameControl.valid }}</div>
+               <div>invalid: {{ first_nameControl.invalid }}</div>
+
+              <h3>Form</h3>
+              <div>touched: {{ createForm.touched }}</div>
+               <div>untouched: {{ createForm.untouched }}</div>
+               <div>dirty: {{ createForm.dirty }}</div>
+               <div>valid: {{ createForm.valid }}</div>
+               <div>invalid: {{ createForm.invalid }}</div>
+
+
