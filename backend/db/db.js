@@ -2,7 +2,7 @@ const mysql = require('mysql');
 
 const conn = mysql.createConnection({
  host: "localhost",
- user: "root",
+ user: "***",
  password: "***",
  database: "zeljadb",
 });
